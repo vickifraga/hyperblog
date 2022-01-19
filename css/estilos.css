@@ -16,8 +16,8 @@ body {
 
 #cabecera
 {
-    background: #1b403d;
-    color: #bfd5a6;
+    background: #13457a;
+    color: white;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     font-weight: bold;
     margin: 0;
@@ -27,8 +27,8 @@ body {
 #cabecera #tagline
 {
     font-weight: normal;
-    background: #1b403d;
-    color: #bfd5a6;
+    background: #13457a;
+    color: white;
     font-size: 0.8em;
     padding: 0 0 0 1em;
 }
@@ -36,7 +36,7 @@ body {
 #container 
 {
     width: 70%;
-    padding: 10px;
+    padding: 20px;
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
